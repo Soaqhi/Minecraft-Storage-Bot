@@ -31,6 +31,7 @@ cd minecraft-storage-bot
 
 2. **Install mineflayer**
 ``` bash
+npm update
 npm install mineflayer mineflayer-pathfinder
 ```
 
