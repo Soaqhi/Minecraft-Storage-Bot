@@ -1,0 +1,17 @@
+{
+  "host": "localhost",
+  "port": 25565,
+  "username": "Bot",
+  "auth": "microsoft",
+  "version": "1.21.11",
+  "homePos": {
+    "x": 191,
+    "y": 113,
+    "z": 360
+  },
+  "StorageCorners": [
+        { "x": 188, "y": 116, "z": 365 },
+        { "x": 194, "y": 113, "z": 356 }
+    ],
+    "bot.owner": "user"
+}
