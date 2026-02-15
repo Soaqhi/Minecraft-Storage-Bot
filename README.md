@@ -10,8 +10,6 @@ A **Minecraft storage management bot** that allows for easy and randomized stora
 - **Search items** by name for quick access.
 - **Deposit items** to storage directly from the interface.
 - **Withdraw items** with custom amounts.
-- **Reload storage cache** without restarting the bot.
-- **Responsive design**: works on both desktop and mobile.
 
 ---
 
